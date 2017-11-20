@@ -1,4 +1,4 @@
-console.log("hi");
+console.log("hey there");
 let input = document.getElementById("input");
 let c = document.getElementById("c");
 let f = document.getElementById("f");
